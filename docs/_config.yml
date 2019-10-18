@@ -12,9 +12,9 @@ lang: en-US
 title: Basically Basic
 email: dugan.nash@mailinator.com
 description: "Your new default Jekyll theme"
-baseurl: "/jekyll-theme-basically-basic"
-url: "https://mmistakes.github.io"
-repository: "mmistakes/minimal-mistakes"
+baseurl: "/it"
+url: "https://techytok.ml/"
+repository: ""
 author:
   name: Dugan Nash
   twitter: Towlette_Pettetucci
